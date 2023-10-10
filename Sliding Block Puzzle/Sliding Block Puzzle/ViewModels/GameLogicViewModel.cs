@@ -253,7 +253,8 @@ namespace Sliding_Block_Puzzle.ViewModels
             int col = 0;
 
             // Loop through 20 legal moves before displaying the board
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++) // I change the iteration amount to 5 to make it easily solveable, change to 20 for a full shuffle. 
+
             {
                 List<(int, int)> validMoves = new List<(int, int)>(); // List to store row, col of valid moves
 
