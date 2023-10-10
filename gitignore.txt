@@ -1,0 +1,3 @@
+**/bin/
+**/obj/
+**/ICTPRG554 ICTPRG603 Ass 1 Task 2 J FT/

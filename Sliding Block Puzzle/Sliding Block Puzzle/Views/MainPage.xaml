@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodels="clr-namespace:Sliding_Block_Puzzle.ViewModels" x:DataType="viewmodels:GameLogicViewModel"
+             x:Class="Sliding_Block_Puzzle.Views.MainPage"
+             BackgroundImageSource="puzzle_background.jpg" Opacity="50">
+    
+
+    <StackLayout HorizontalOptions="CenterAndExpand" WidthRequest="420"
+                 Spacing="10">
+        
+        <!-- Game Title -->
+        <Frame BackgroundColor="#203855" Margin="0,40,0,20">
+            <Label Text="Sliding Block Puzzle Game" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="White" 
+                   FontSize="28"/>
+        </Frame>
+
+        <Frame BackgroundColor="White" Margin="0,0,0,0" HasShadow="True" HorizontalOptions="Center" >
+            <Label Text="Match the puzzle pieces to win!" FontSize="Micro" HorizontalOptions="Center"/>
+        </Frame>
+
+        <Frame Padding="8" 
+               BackgroundColor="#09182A"
+               CornerRadius="10"
+               HasShadow="True" 
+               Margin="0,0,0,0"
+               HeightRequest="400" 
+               WidthRequest="400" 
+               HorizontalOptions="Center">
+
+            <!-- Game Grid -->
+            <Grid x:Name="myGrid" HeightRequest="400" WidthRequest="400">
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Displaying Puzzle Piece Images -->
+                
+                <Image x:Name="empty00" Grid.Row="0" Grid.Column="0" Source="{Binding EmptyPiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding EmptyPiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image00" Grid.Row="0" Grid.Column="1" Source="{Binding TopMiddlePiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding TopMiddlePiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image01" Grid.Row="0" Grid.Column="2" Source="{Binding TopRightPiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding TopRightPiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image02" Grid.Row="1" Grid.Column="0" Source="{Binding CentreLeftPiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding CentreLeftPiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image03" Grid.Row="1" Grid.Column="1" Source="{Binding CentreMiddlePiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding CentreMiddlePiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image04" Grid.Row="1" Grid.Column="2" Source="{Binding CentreRightPiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding CentreRightPiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image05" Grid.Row="2" Grid.Column="0" Source="{Binding BottomLeftPiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding BottomLeftPiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image06" Grid.Row="2" Grid.Column="1" Source="{Binding BottomMiddlePiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding BottomMiddlePiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image x:Name="image07" Grid.Row="2" Grid.Column="2" Source="{Binding BottomRightPiece.ImageSource}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SelectPuzzlePieceCommand}" CommandParameter="{Binding BottomRightPiece}"/>
+                    </Image.GestureRecognizers>
+                </Image>
+            </Grid>
+        </Frame>
+
+    </StackLayout>
+</ContentPage>

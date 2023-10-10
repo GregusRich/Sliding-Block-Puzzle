@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDa9DwSQTlTOSI2cog3bDzTCeVMDY/oodUf4FkJf17XlmlbFA4flwr+IYeT80N0jq8ZeCHNMEXh4acyfuQGDqw==",
+  "success": true,
+  "projectFilePath": "E:\\Diploma Advanced Programming\\Advanced Mobile Apps\\Sliding Block Puzzle\\Sliding Block Puzzle\\Sliding Block Puzzle.iOS\\Sliding Block Puzzle.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\grego\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\grego\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,126 @@
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.exe
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.csproj.AssemblyReference.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.csproj.CoreCompileInputs.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.csproj.CopyComplete
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.exe
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.exe
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.dll
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\bin\iPhoneSimulator\Debug\Sliding Block Puzzle.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.csproj.AssemblyReference.cache
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.csproj.CoreCompileInputs.cache
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.csproj.CopyComplete
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.exe
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.iOS\obj\iPhoneSimulator\Debug\Sliding Block Puzzle.iOS.pdb

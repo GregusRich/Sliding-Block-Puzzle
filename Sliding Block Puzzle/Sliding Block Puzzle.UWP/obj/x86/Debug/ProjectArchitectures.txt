@@ -1,0 +1,1 @@
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\Sliding Block Puzzle.UWP.csproj;x86

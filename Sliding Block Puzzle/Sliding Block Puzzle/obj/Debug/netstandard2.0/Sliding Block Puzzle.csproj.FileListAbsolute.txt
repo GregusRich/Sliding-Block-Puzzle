@@ -1,0 +1,22 @@
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\bin\Debug\netstandard2.0\Sliding Block Puzzle.deps.json
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\bin\Debug\netstandard2.0\Sliding Block Puzzle.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\bin\Debug\netstandard2.0\ref\Sliding Block Puzzle.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\bin\Debug\netstandard2.0\Sliding Block Puzzle.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.csproj.AssemblyReference.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.AssemblyInfoInputs.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.AssemblyInfo.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.csproj.CoreCompileInputs.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\refint\Sliding Block Puzzle.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.pdb
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.csproj.AssemblyReference.cache
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.AssemblyInfoInputs.cache
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.AssemblyInfo.cs
+D:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle\obj\Debug\netstandard2.0\Sliding Block Puzzle.csproj.CoreCompileInputs.cache

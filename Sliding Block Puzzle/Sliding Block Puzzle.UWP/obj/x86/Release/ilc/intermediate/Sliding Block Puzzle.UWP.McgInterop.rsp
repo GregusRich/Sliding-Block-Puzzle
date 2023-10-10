@@ -1,0 +1,39 @@
+﻿/debug:pdbonly
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize+
+/out:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop.dll"
+/pdb:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.iltoc"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Threading.iltoc"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Users\grego\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\System.Private.Sliding Block Puzzle.UWP.Generated.dll"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\Adapters.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\AssemblyInfo.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\Data.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\Helpers.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\ImplTypes.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\PInvoke.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\SafeTypes.g.cs"
+"E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Release\ilc\intermediate\Sliding Block Puzzle.UWP.McgInterop\SharedStubs.g.cs"

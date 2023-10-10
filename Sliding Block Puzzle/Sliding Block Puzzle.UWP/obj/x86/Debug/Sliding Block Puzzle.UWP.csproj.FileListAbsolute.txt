@@ -1,0 +1,63 @@
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\App.xbf
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\MainPage.xbf
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Sliding Block Puzzle.UWP.xr.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Sliding Block Puzzle.UWP.exe
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Sliding Block Puzzle.UWP.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\resources.pri
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\AppxManifest.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Core\AppxManifest.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Core\Sliding Block Puzzle.UWP.exe
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Sliding Block Puzzle.UWP.build.appxrecipe
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\System.Runtime.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Sliding Block Puzzle.dll
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\bin\x86\Debug\Sliding Block Puzzle.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Sliding Block Puzzle.UWP.csproj.AssemblyReference.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\App.g.i.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\App.g.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\MainPage.g.i.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\MainPage.g.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\App.xaml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\MainPage.xaml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\App.xbf
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\MainPage.xbf
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Sliding Block Puzzle.UWP.csproj.CoreCompileInputs.cache
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Sliding Block Puzzle.UWP.csproj.CopyComplete
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Sliding Block Puzzle.UWP.exe
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\Sliding Block Puzzle.UWP.pdb
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\ResourceHandlingTask.state
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\priconfig.xml
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\priconfig.xml.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\filtered.layout.resfiles
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\excluded.layout.resfiles
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\resources.resfiles
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\resources.resfiles.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\pri.resfiles
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\pri.resfiles.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\qualifiers.txt
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\ProjectArchitectures.txt
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+E:\Diploma Advanced Programming\Advanced Mobile Apps\Sliding Block Puzzle\Sliding Block Puzzle\Sliding Block Puzzle.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934734560000000.json
